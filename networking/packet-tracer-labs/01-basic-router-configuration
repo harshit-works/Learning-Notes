@@ -1,0 +1,33 @@
+# Commands Used
+
+## Router Configuration
+
+```bash
+enable
+configure terminal
+interface g0/0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+exit
+show ip interface brief
+```
+
+## PC Configuration
+
+| Setting | Value |
+|---------|-------|
+| IP Address | 192.168.1.2 |
+| Subnet Mask | 255.255.255.0 |
+| Default Gateway | 192.168.1.1 |
+
+## Verification
+
+```bash
+ping 192.168.1.1
+```
+
+Expected Result:
+
+```
+Reply from 192.168.1.1
+```

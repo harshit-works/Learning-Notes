@@ -1,0 +1,91 @@
+# SQL Injection – UNION Attack, Retrieving Multiple Values in a Single Column
+
+## Overview
+
+This lab demonstrates a SQL Injection vulnerability involving a `UNION` query.
+
+The objective was to exploit an injectable parameter to retrieve multiple values from the database through a single column in the application's response.
+
+## Lab Environment
+
+* **Platform:** PortSwigger Web Security Academy
+* **Lab:** SQL injection UNION attack, retrieving multiple values in a single column
+* **Tool:** Burp Suite
+* **Application:** Intentionally vulnerable Web Security Academy lab
+
+## Objective
+
+The objective was to determine whether a vulnerable application parameter could be manipulated using SQL Injection and then use a `UNION` query to retrieve multiple database values through a single output column.
+
+## Methodology
+
+### 1. Identifying the Injection Point
+
+The application's request was captured and inspected using Burp Suite Repeater.
+
+The vulnerable parameter was modified to test whether SQL syntax was being interpreted by the backend database.
+
+### 2. Testing the UNION Query
+
+After establishing that the parameter was injectable, a `UNION`-based SQL Injection technique was used.
+
+The query was constructed so that multiple database values could be returned through the available output column.
+
+### 3. Retrieving Database Values
+
+The modified request was sent through Burp Suite Repeater and the response was inspected.
+
+The response displayed database-derived values, including account-related information.
+
+![UNION SQL Injection result](screenshots/sqli-union.png)
+
+## Result
+
+The lab was successfully solved.
+
+The SQL Injection vulnerability allowed data from the database to be retrieved through a `UNION` query.
+
+This demonstrated how an application that directly incorporates user-controlled input into SQL queries can expose database information.
+
+## Security Impact
+
+A successful SQL Injection vulnerability can potentially allow an attacker to:
+
+* Read information from database tables
+* Access sensitive application data
+* Bypass intended application logic
+* Modify or delete database information, depending on database privileges and application configuration
+
+The actual impact depends on the database permissions and the application's implementation.
+
+## Mitigation
+
+Developers should:
+
+* Use parameterized queries / prepared statements.
+* Avoid constructing SQL queries directly from user input.
+* Apply appropriate input validation.
+* Use database accounts with the minimum required privileges.
+* Avoid exposing detailed database errors to users.
+
+## Key Learnings
+
+Through this lab, I practiced:
+
+* Identifying SQL Injection points
+* Using Burp Suite Repeater for request manipulation
+* Understanding `UNION`-based SQL Injection
+* Retrieving database values through an injectable parameter
+* Understanding the security impact of unsafe SQL query construction
+
+## Tools Used
+
+* Burp Suite
+* PortSwigger Web Security Academy
+* Firefox
+
+## Evidence
+
+The included screenshot documents the successful exploitation of the intentionally vulnerable lab environment.
+
+> All testing was performed against the intentionally vulnerable PortSwigger Web Security Academy environment.
