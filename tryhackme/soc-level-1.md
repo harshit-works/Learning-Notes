@@ -19,3 +19,9 @@ Date: 10/11/2026
 - What it taught me: Hoe attackers target the system and setting a weak password can lead to big attacks and also misconfiguration of a system can lead to a big attack , antivirus and patch are very important things 
 - One thing I didn't know before: about the Common Vulnerabilities and Exposures and  zero-day
 - Tool or command used: Tryhackme
+
+## Room: SOC Workbooks and Lookups
+Date: 10/11/2026
+- What it taught me: about the alert triage what is the complete process to determine the alert is a TP or FP and then escalting to L2 with the help of using a Work book
+- One thing I didn't know before: creation and study of a workbook 
+- Tool or command used: tryhackme
