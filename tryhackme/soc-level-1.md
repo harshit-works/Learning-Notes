@@ -31,3 +31,9 @@ Date: 12/10/2026
 - What it taught me: Discover the concepts of SLA, MTTD, MTTA, MTTR and False positive rate and how to improve them.
 - One thing I didn't know before: - 
 - Tool or command used: tryhackme
+
+## Room: Splunk: The Basics
+Date: 12/10/2026
+- What it taught me: about the splunk tool, add data, forwarder, SPL 
+- One thing I didn't know before: The SPL language 
+- Tool or command used: splunk , tryhack me
