@@ -2,7 +2,7 @@
 
 ## Room: Humans as Attack Vectors
 Date: 10/11/2026
-- What it taught me: 
+- What it taught me:
 - One thing I didn't know before: 
 - Tool or command used:
 
@@ -37,3 +37,9 @@ Date: 12/10/2026
 - What it taught me: about the splunk tool, add data, forwarder, SPL 
 - One thing I didn't know before: The SPL language 
 - Tool or command used: splunk , tryhack me
+
+## Room: Humans as Attack Vectors
+Date: 12/10/2026
+- What it taught me: elastic stack the basics
+- One thing I didn't know before: elastic overview 
+- Tool or command used: elastic , SIEM
