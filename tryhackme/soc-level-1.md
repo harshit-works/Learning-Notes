@@ -49,3 +49,9 @@ Date: 12/10/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: automating tasks
 - Tool or command used: SOAR
+
+## Room: Phishing Analysis Tools
+Date: 13/10/2026
+- What it taught me: told me about all the tools that is required for phishing analysis and about phising emails how they trick human beings and how viruses are hidden inside them 
+- One thing I didn't know before: how to do analysis in app.any.run 
+- Tool or command used: app.any.run
