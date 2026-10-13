@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: Humans as Attack Vectors
+## Room: Phishing Prevention
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -55,3 +55,9 @@ Date: 13/10/2026
 - What it taught me: told me about all the tools that is required for phishing analysis and about phising emails how they trick human beings and how viruses are hidden inside them 
 - One thing I didn't know before: how to do analysis in app.any.run 
 - Tool or command used: app.any.run
+
+## Room: Phishing Prevention
+Date: 13/10/2026
+- What it taught me: how to prevent and detetct phishing , about SPF and DKIM , SMTP and many more
+- One thing I didn't know before: how to do analysis with the smtp 
+- Tool or command used: wireshark
