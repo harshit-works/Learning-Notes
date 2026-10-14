@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: NetworkMiner
+## Room: Data Exfiltration Detection
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -67,3 +67,9 @@ Date: 14/10/2026
 - What it taught me: about network minor that is somewhat similar to wireshark but has different use case , taught me about the tools how to use network minor using pcap files 
 - One thing I didn't know before: about the whole networkminer usecase and how to use it
 - Tool or command used: networkminer
+
+## Room: Data Exfiltration Detection
+Date: 10/11/2026
+- What it taught me: how data is exfiltrated by the attacker using various potocols 
+- One thing I didn't know before: - 
+- Tool or command used: splunk , wireshark
