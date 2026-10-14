@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: Phishing Prevention
+## Room: NetworkMiner
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -61,3 +61,9 @@ Date: 13/10/2026
 - What it taught me: how to prevent and detetct phishing , about SPF and DKIM , SMTP and many more
 - One thing I didn't know before: how to do analysis with the smtp 
 - Tool or command used: wireshark
+
+## Room: NetworkMiner
+Date: 14/10/2026
+- What it taught me: about network minor that is somewhat similar to wireshark but has different use case , taught me about the tools how to use network minor using pcap files 
+- One thing I didn't know before: about the whole networkminer usecase and how to use it
+- Tool or command used: networkminer
