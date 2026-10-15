@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: Data Exfiltration Detection
+## Room: Man-in-the-Middle Detection
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -73,3 +73,9 @@ Date: 10/11/2026
 - What it taught me: how data is exfiltrated by the attacker using various potocols 
 - One thing I didn't know before: - 
 - Tool or command used: splunk , wireshark
+
+## Room: Man-in-the-Middle Detection
+Date: 15/10/2026
+- What it taught me: How attacker capture information about the target by sitting in betweeen the network and the victim, by ARP spoofinf , DNS spoofing , SSL stripping
+- One thing I didn't know before: How attacker do arp spoofing and how we capture it with wireshark
+- Tool or command used: wireshark
