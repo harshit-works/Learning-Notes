@@ -69,7 +69,7 @@ Date: 14/10/2026
 - Tool or command used: networkminer
 
 ## Room: Data Exfiltration Detection
-Date: 10/11/2026
+Date: 14/10/2026
 - What it taught me: how data is exfiltrated by the attacker using various potocols 
 - One thing I didn't know before: - 
 - Tool or command used: splunk , wireshark
