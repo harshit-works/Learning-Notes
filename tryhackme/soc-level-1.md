@@ -86,4 +86,10 @@ Date: 16/10/2026
 - One thing I didn't know before: operations in snort
 - Tool or command used: linux
 
+## Room: Detecting Web Shells
+Date: 16/10/2026
+- What it taught me: How we can detect webshells in a system see them through logs 
+- One thing I didn't know before: -  
+- Tool or command used: - 
+
 
