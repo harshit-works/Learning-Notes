@@ -4,7 +4,7 @@
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
-- Tool or command used:
+- Tool or command used
 
 # SOC Level 1 Notes
 
