@@ -20,7 +20,7 @@ Date: 11/10/2026
 - One thing I didn't know before: about the Common Vulnerabilities and Exposures and  zero-day
 - Tool or command used: Tryhackme
 
-## Room: SOC Workbooks and Lookups
+## Room: SOC Workbooks and Lookup
 Date: 11/10/2026
 - What it taught me: about the alert triage what is the complete process to determine the alert is a TP or FP and then escalting to L2 with the help of using a Work book
 - One thing I didn't know before: creation and study of a workbook 
