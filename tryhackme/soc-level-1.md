@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: Man-in-the-Middle Detection
+## Room: Snort
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -79,3 +79,11 @@ Date: 15/10/2026
 - What it taught me: How attacker capture information about the target by sitting in betweeen the network and the victim, by ARP spoofinf , DNS spoofing , SSL stripping
 - One thing I didn't know before: How attacker do arp spoofing and how we capture it with wireshark
 - Tool or command used: wireshark
+
+## Room: Snort
+Date: 16/10/2026
+- What it taught me: about snort ids ips operations in snort pcap investigation pcap structure, sniffer mode 
+- One thing I didn't know before: operations in snort
+- Tool or command used: linux
+
+
