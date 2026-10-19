@@ -1,7 +1,7 @@
 # SOC Level 1 Notes
 
-## Room: Windows Threat Detection 3
-Date: 10/11/2026
+## Room: Linux Threat Detection 2
+Date: 19/10/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
 - Tool or command used
@@ -96,5 +96,10 @@ Date: 16/10/2026
 Date: 19/10/2026
 - What it taught me: how to detect the persistence of a attacker in system using various ideas  
 - One thing I didn't know before: Run Keys and Startup
-- Tool or command used - registry editor and win logs 
+- Tool or command used - registry editor and win logs
 
+## Room: Linux Threat Detection 2
+Date: 19/10/2026
+- What it taught me: how threat actors enter the linux system and how we can detect them in logs 
+- One thing I didn't know before: Dota 3 Malware Analysis
+- Tool or command used - 
