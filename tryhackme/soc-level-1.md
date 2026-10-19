@@ -1,6 +1,6 @@
 # SOC Level 1 Notes
 
-## Room: Snort
+## Room: Windows Threat Detection 3
 Date: 10/11/2026
 - What it taught me: introduction to soar
 - One thing I didn't know before: 
@@ -92,4 +92,9 @@ Date: 16/10/2026
 - One thing I didn't know before: -  
 - Tool or command used: - 
 
+## Room: Windows Threat Detection 3
+Date: 19/10/2026
+- What it taught me: how to detect the persistence of a attacker in system using various ideas  
+- One thing I didn't know before: Run Keys and Startup
+- Tool or command used - registry editor and win logs 
 
