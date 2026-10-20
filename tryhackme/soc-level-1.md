@@ -110,3 +110,10 @@ Date: 19/10/2026
 • One thing I didn't know before: Malware abuses nohup for background persistence.
 • Tool or command used: ausearch for auditing process logs.
 
+Room: Living off the land
+Date: 20/10/2026
+
+What it taught me: Detecting post-exploitation activity like discovery, tool downloads, and cryptominers via Linux logs.
+One thing I didn't know before: Attackers run systemd-detect-virt and check for EDR agents (falcon, sentinel) before deploying miners.
+Tool or command used: ausearch -i -if /path/to/audit.log
+
