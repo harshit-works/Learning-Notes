@@ -102,4 +102,11 @@ Date: 19/10/2026
 Date: 19/10/2026
 - What it taught me: how threat actors enter the linux system and how we can detect them in logs 
 - One thing I didn't know before: Dota 3 Malware Analysis
-- Tool or command used - 
+- Tool or command used -
+
+• Room: Linux Threat Detection 2
+• Date: 10/10/2026
+• What it taught me: Detecting post-breach Linux attacks.
+• One thing I didn't know before: Malware abuses nohup for background persistence.
+• Tool or command used: ausearch for auditing process logs.
+
